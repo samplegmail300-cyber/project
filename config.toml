@@ -1,0 +1,8 @@
+# Doctor AI theme - keeps the colours the same on every computer,
+# even when the computer is in dark mode.
+[theme]
+base = "light"
+primaryColor = "#0b6e99"
+backgroundColor = "#f6fafc"
+secondaryBackgroundColor = "#e8f3f8"
+textColor = "#1d3557"
